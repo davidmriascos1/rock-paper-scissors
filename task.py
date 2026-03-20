@@ -57,5 +57,5 @@ elif player_choice == 2 and computer_choice == 0:
 elif player_choice == 2 and computer_choice == 2:
     print(f"{scissors} draw")
     print(f"{scissors} draw")
-else:
-    print("you didn't type between 0-2, you lose")
+#else:
+    #print("you didn't type between 0-2, you lose")
